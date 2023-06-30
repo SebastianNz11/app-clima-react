@@ -1,0 +1,21 @@
+.bg-body {
+  background-image: linear-gradient(
+    to bottom,
+    #54608c,
+    #54608c,
+    #54608c,
+    #54608c,
+    #54608c,
+    #636c95,
+    #72789e,
+    #8084a7,
+    #a0a1bc,
+    #c0bfd2,
+    #e0dfe8,
+    #ffffff
+  );
+}
+
+.bg-Card {
+  background-color: #44609c;
+}
